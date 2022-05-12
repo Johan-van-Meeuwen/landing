@@ -1,7 +1,11 @@
 .cards-container {
-  width: 900px;
-  margin: 80px auto;
+  width: 800px;
+  margin: 40px auto;
   text-align: center;
+}
+
+.cards-container h2 {
+  margin-bottom: 30px;
 }
 
 .cards {
